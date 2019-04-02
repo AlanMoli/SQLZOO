@@ -4,3 +4,4 @@
 | :-----: | :------: |
 | [SELECT basics](https://sqlzoo.net/wiki/SELECT_basics) | [GitHub](https://github.com/MuShiHuaShang/SQLZOO/blob/master/SELECT%20basics.md) |
 | [SELECT basics quiz](https://sqlzoo.net/wiki/SELECT_Quiz) | [GitHub](https://github.com/MuShiHuaShang/SQLZOO/blob/master/SELECT%20basics%20quiz.md) |
+| [SELECT from WORLD Tutorial](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial) | [GitHub](https://github.com/MuShiHuaShang/SQLZOO/blob/master/SELECT%20from%20WORLD%20Tutorial.md) |
